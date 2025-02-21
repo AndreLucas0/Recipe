@@ -15,7 +15,7 @@ body {
     max-width: 170mm;
     background-color: rgba(255, 211, 218, 0.4);
     border-radius: 20px;
-    padding: 30px;
+    padding: 10px;
     margin: 20px auto;
 }
 
@@ -26,7 +26,7 @@ body {
 }
 
 /* Ajustes na ul e li de diferentes ID's */
-#Preparation_time{
+#Preparation_time {
     padding: 0px;
 }
 
@@ -41,6 +41,7 @@ body {
 
 #Preparation_topics li {
     padding-left: 15px;
+    line-height: 2.2;
 }
 
 #Ingredients ul {
@@ -56,6 +57,7 @@ body {
 #Ingredients li {
     padding-left: 15px;
     text-align: justify;
+    line-height: 2.2;
 }
 
 #Instructions ol {
@@ -70,6 +72,7 @@ body {
 #Instructions li {
     padding-left: 15px;
     text-align: justify;
+    line-height: 2.2;
 }
 
 /* Ajustes no elemento hr */
