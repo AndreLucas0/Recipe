@@ -25,6 +25,8 @@ Este é um projeto baseado em um site de receitas, desenvolvido com o objetivo d
    ```
 2. Abra o arquivo `index.html` em seu navegador.
 
+3. Ou acesse o link: https://andrelucas0.github.io/Recipe/
+
 ## 📩 Contato
 Se tiver dúvidas ou sugestões, entre em contato pelo e-mail: [andrelucasferreira3103@gmail.com](mailto:andrelucasferreira3103@gmail.com).
 
