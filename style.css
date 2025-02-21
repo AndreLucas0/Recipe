@@ -1,0 +1,39 @@
+body {
+    background-color: #F3E5D8;
+}
+
+.paper {
+    max-width: 170mm;
+    background-color: white;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 20px auto;
+}
+
+#img img {
+    width: 100%;
+}
+
+.monomakh-regular {
+    font-family: "Monomakh", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 30px;
+}
+
+
+.roboto-font-brown {
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: 900px;
+    font-style: normal;
+    color: #512d1e;
+  }
+
+  .roboto-font-pink {
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: 900px;
+    font-style: normal;
+    color: #c1577e;
+  }
